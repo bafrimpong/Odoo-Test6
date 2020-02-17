@@ -1,5 +1,5 @@
 # Odoo-Test6
-uestion 6 of Odoo interview process
+Question 6 of Odoo interview process
 
 This is the question of the Odoo interview process questions which is implemented in Ruby
 
